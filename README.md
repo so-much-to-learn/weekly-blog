@@ -13,12 +13,15 @@
 ## 第三十期 20190106
 
 - 南京-SHERlocked93 [推介几款 windows 下非常好用的工具](https://segmentfault.com/a/1190000017756878)
+- 尹光耀 [mobx实践](https://zhuanlan.zhihu.com/p/52502924)
 
 
 
 ## 第二十九期 20181122
 
 - 南京-SHERlocked93 [使用API自动生成工具优化前端工作流](https://segmentfault.com/a/1190000017108180)
+- 尹光耀 [React状态管理](https://github.com/yinguangyao/blog/issues/13)
+- 尹光耀 [深入理解React](https://zhuanlan.zhihu.com/p/51895089)
 
  
 
@@ -31,6 +34,7 @@
 ## 第二十七期  20180923
 
 - 南京-SHERlocked93  [CSS 中重要的层叠概念](https://juejin.im/post/5ba4efe36fb9a05cf52ac192)
+- 尹光耀 [60行代码实现简单模板语法](https://zhuanlan.zhihu.com/p/51284003)
 
 
 
@@ -64,6 +68,7 @@
 ## 第二十二期 20180819
 
 - 南京-SHERlocked93   [Vue项目骨架屏注入实践](https://segmentfault.com/a/1190000016068682)
+- 尹光耀 [Redux源码分析](https://github.com/yinguangyao/blog/issues/6)
 
 
 
