@@ -28,6 +28,7 @@
 ## 第二十八期 20181012
 
 - 南京-SHERlocked93 [Git 学习笔记](https://segmentfault.com/a/1190000016665840)
+- 尹光耀 [编写可维护的js](http://ygy.online/2018/07/07/%E3%80%8A%E7%BC%96%E5%86%99%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84JS%E3%80%8B%E7%AC%94%E8%AE%B0/)
 
 
 
@@ -49,6 +50,7 @@
 
 - 南京-SHERlocked93  [Vue项目数据动态过滤实践](https://juejin.im/post/5b9394fff265da0af406ed53)
 - atie [配置nginx解决vue路由history模式下刷新404问题](https://segmentfault.com/a/1190000016358990)
+- 尹光耀 [JS函数柯里化](https://github.com/yinguangyao/blog/issues/3)
 
 
 
@@ -56,6 +58,7 @@
 
 - 南京-SHERlocked93  [Vue项目预渲染机制引入实践](https://juejin.im/post/5b8ba25751882542f25a6cc8)
 - atie [vue响应式原理](https://segmentfault.com/a/1190000016333054)
+- 尹光耀 [实现一个bind函数](https://github.com/yinguangyao/blog/issues/5)
 
 
 
@@ -76,6 +79,7 @@
 
 - 南京-SHERlocked93   [一个骚气的文章目录自动生成器了解一下](https://segmentfault.com/a/1190000015950560)
 - atie [思维导图—你不知道的JavaScript中卷](https://segmentfault.com/a/1190000015996577)
+- 尹光耀 [underscore整体架构分析](https://github.com/yinguangyao/blog/issues/7)
 
 ## 第二十期 20180805
 
