@@ -7,7 +7,7 @@
 
 ## 第三十三期 20190127
 
-- 南京-SHERlocked93 [\[译\] 使用 Proxy 来监测 Javascript 中的类 \- 掘金](https://juejin.im/post/5c484b76e51d45522b4f5f7d)
+- 南京-SHERlocked93 [\[译\] 使用 Proxy 来监测 Javascript 中的类](https://juejin.im/post/5c484b76e51d45522b4f5f7d)
 
 
 ## 第三十二期 20190120
