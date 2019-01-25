@@ -5,6 +5,12 @@
 前端交流群：468273103，欢迎一起来探讨技术
 
 
+
+## 第三十四期 20190203
+
+- 南京-SHERlocked93 [SHERlocked93 的 2018 年终总结](https://juejin.im/post/5c49a9326fb9a049e063b284)
+
+
 ## 第三十三期 20190127
 
 - 南京-SHERlocked93 [\[译\] 使用 Proxy 来监测 Javascript 中的类](https://juejin.im/post/5c484b76e51d45522b4f5f7d)
