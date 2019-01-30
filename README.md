@@ -14,12 +14,15 @@
 ## 第三十三期 20190127
 
 - 南京-SHERlocked93 [\[译\] 使用 Proxy 来监测 Javascript 中的类](https://juejin.im/post/5c484b76e51d45522b4f5f7d)
+- atie 🐶
+- 尹光耀 🐶
 
 
 ## 第三十二期 20190120
 
 - 尹光耀 [表驱动法](https://juejin.im/post/5c4444baf265da61542de62f)
 - 南京-SHERlocked93 [\[译\] 使用 Recompose 来构建高阶组件](https://juejin.im/post/5c484a43e51d452ec621b6a9)
+- atie 🐶
 
 ## 第三十一期 20190113
 
