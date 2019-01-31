@@ -6,6 +6,11 @@
 
 
 
+## 第三十五期 20190210
+
+- 南京-SHERlocked93 [前端路由跳转基本原理](https://segmentfault.com/a/1190000018081475)
+
+
 ## 第三十四期 20190203
 
 - 南京-SHERlocked93 [SHERlocked93 的 2018 年终总结](https://juejin.im/post/5c49a9326fb9a049e063b284)
