@@ -26,7 +26,7 @@
 
 - 南京-SHERlocked93 [\[译\] 使用 Proxy 来监测 Javascript 中的类](https://juejin.im/post/5c484b76e51d45522b4f5f7d)
 - atie 🐶
-- 尹光耀 🐶
+- 尹光耀 [React状态管理](https://github.com/yinguangyao/blog/issues/13)
 
 
 ## 第三十二期 20190120
@@ -38,7 +38,7 @@
 ## 第三十一期 20190113
 
 - 南京-SHERlocked93 [《你不知道的JavaScript》 \(上\) 读书笔记](https://segmentfault.com/a/1190000017812755)，[《你不知道的JavaScript》 \(中\) 读书笔记](https://segmentfault.com/a/1190000017782625)，[《你不知道的JavaScript》 \(下\) 读书笔记](https://segmentfault.com/a/1190000017812997)
-
+- 尹光耀 [深入理解React](https://zhuanlan.zhihu.com/p/51895089)
  
 
 ## 第三十期 20190106
@@ -51,15 +51,14 @@
 ## 第二十九期 20181122
 
 - 南京-SHERlocked93 [使用API自动生成工具优化前端工作流](https://segmentfault.com/a/1190000017108180)
-- 尹光耀 [React状态管理](https://github.com/yinguangyao/blog/issues/13)
-- 尹光耀 [深入理解React](https://zhuanlan.zhihu.com/p/51895089)
+- 尹光耀[underscore查找索引函数分析](https://github.com/yinguangyao/blog/issues/20)
 
  
 
 ## 第二十八期 20181012
 
 - 南京-SHERlocked93 [Git 学习笔记](https://segmentfault.com/a/1190000016665840)
-- 尹光耀 [编写可维护的js](http://ygy.online/2018/07/07/%E3%80%8A%E7%BC%96%E5%86%99%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84JS%E3%80%8B%E7%AC%94%E8%AE%B0/)
+- 尹光耀 [underscore debounce防抖动函数分析](https://github.com/yinguangyao/blog/issues/19)
 
 
 
@@ -67,6 +66,7 @@
 
 - 南京-SHERlocked93  [CSS 中重要的层叠概念](https://juejin.im/post/5ba4efe36fb9a05cf52ac192)
 - 尹光耀 [60行代码实现简单模板语法](https://zhuanlan.zhihu.com/p/51284003)
+- 尹光耀 [underscore throttle节流函数分析](https://github.com/yinguangyao/blog/issues/18)
 
 
 
@@ -74,6 +74,7 @@
 
 - 南京-SHERlocked93  [windows本地安装部署 Easy Mock](https://segmentfault.com/a/1190000016401747)
 - atie [happypack提升项目构建速度](https://segmentfault.com/a/1190000016418966)
+- 尹光耀[underscore源码剖析之数组遍历函数分析（二）](https://github.com/yinguangyao/blog/issues/17)
 
 
 
@@ -96,13 +97,14 @@
 ## 第二十三期 20180826
 
 - atie [浏览器http缓存](https://segmentfault.com/a/1190000016152384)
+- 尹光耀[underscore源码剖析之数组遍历函数分析（一）](https://github.com/yinguangyao/blog/issues/16)
 
 
 
 ## 第二十二期 20180819
 
 - 南京-SHERlocked93   [Vue项目骨架屏注入实践](https://segmentfault.com/a/1190000016068682)
-- 尹光耀 [Redux源码分析](https://github.com/yinguangyao/blog/issues/6)
+- 尹光耀 [编写可维护的js](http://ygy.online/2018/07/07/%E3%80%8A%E7%BC%96%E5%86%99%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84JS%E3%80%8B%E7%AC%94%E8%AE%B0/)
 
 
 
@@ -110,19 +112,20 @@
 
 - 南京-SHERlocked93   [一个骚气的文章目录自动生成器了解一下](https://segmentfault.com/a/1190000015950560)
 - atie [思维导图—你不知道的JavaScript中卷](https://segmentfault.com/a/1190000015996577)
-- 尹光耀 [underscore整体架构分析](https://github.com/yinguangyao/blog/issues/7)
+- 尹光耀[underscore源码剖析之基础方法](https://github.com/yinguangyao/blog/issues/15)
 
 ## 第二十期 20180805
 
 - 南京-SHERlocked93 [JS 中的offset、scroll、client总结](https://segmentfault.com/a/1190000015961743)
 - atie [原生js实现日期选择器插件](https://segmentfault.com/a/1190000015973790)
-
+- 尹光耀 [Redux源码分析](https://github.com/yinguangyao/blog/issues/6)
 
 
 ## 第十九期 20180729
 
 - 南京-SHERlocked93   [JS 中可以提升幸福度的小技巧](https://juejin.im/post/5b51e5d3f265da0f4861143c)
 - atie [思维导图—描述vue执行机制](https://segmentfault.com/a/1190000015867323)
+- 尹光耀 [underscore整体架构分析](https://github.com/yinguangyao/blog/issues/7)
 
 ##  第十八期 20180722
 - 南京-SHERlocked93   [Vue源码阅读 - 批量异步更新与nextTick原理](https://segmentfault.com/a/1190000015698196)
