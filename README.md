@@ -20,7 +20,7 @@
 
 - 南京-SHERlocked93 [SHERlocked93 的 2018 年终总结](https://juejin.im/post/5c49a9326fb9a049e063b284)
 - atie 🐶
-- 尹光耀 🐶
+- 尹光耀 [2019展望](https://github.com/yinguangyao/blog/issues/21)
 
 ## 第三十三期 20190127
 
