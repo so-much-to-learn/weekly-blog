@@ -84,7 +84,7 @@
 | ---- | ---- |
 |   SHERlocked93   |   [CSS 中重要的层叠概念](https://juejin.im/post/5ba4efe36fb9a05cf52ac192)   |
 |   atie   |   🐶   |
-|   尹光耀   |   [60行代码实现简单模板语法](https://zhuanlan.zhihu.com/p/51284003)，underscore throttle节流函数分析](https://github.com/yinguangyao/blog/issues/18)   |
+|   尹光耀   |   [60行代码实现简单模板语法](https://zhuanlan.zhihu.com/p/51284003)，[underscore throttle节流函数分析](https://github.com/yinguangyao/blog/issues/18)    |
 
 
 
