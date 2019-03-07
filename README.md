@@ -20,7 +20,7 @@
 |   笑妄   |   [「从源码中学习」Vue源码中的JS骚操作 - 掘金](https://juejin.im/post/5c73554cf265da2de33f2a32)   |
 |   SHERlocked93   |   [vue\-router 源码阅读 \- 文件结构与注册机制 \- 掘金](https://juejin.im/post/5c7160d46fb9a049d236ae79)   |
 |   atie   |   🐶   |
-|   尹光耀   |   🐶   |
+|   尹光耀   |   🐶   | [前端学习资源整理](https://github.com/yinguangyao/blog/issues/22)
 
 
 ## 第三十六期 20190217
