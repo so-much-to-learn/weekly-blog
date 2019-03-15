@@ -10,7 +10,7 @@
 |   笑妄   |   [「从源码中学习」彻底理解Vue选项Props \- 掘金](https://juejin.im/post/5c88e669f265da2d8f47792a)   |
 |   SHERlocked93   |   [GraphQL 从入门到实践 \- 掘金](https://juejin.im/post/5c87b1776fb9a049ac7a0247)   |
 |   atie   |   [javascript排序算法学习笔记](https://segmentfault.com/a/1190000018467862)   |
-|   沙雕耀耀   |   🐶   |
+|   尹光耀   |   🐶   |
 
 
 ## 第三十八期 20190303
