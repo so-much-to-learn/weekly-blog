@@ -4,13 +4,22 @@
 
 前端交流群：468273103，欢迎一起来探讨技术
 
+
+## 第四十期 20190317
+|   -   |   article   |
+| ---- | ---- |
+|   笑妄   |   [为何你始终理解不了JavaScript作用域链？ \- 掘金](https://juejin.im/post/5c8efeb1e51d45614372addd)   |
+|   SHERlocked93   |   [《图解 HTTP》 读书笔记 \- 掘金](https://juejin.im/post/5c938812e51d4539fc2d61a5)   |
+|   atie   |   🐶   |
+|   尹光耀   |   [如何写好前端业务代码？](https://github.com/yinguangyao/blog/issues/23)   |
+
 ## 第三十九期 20190310
 |   -   |   article   |
 | ---- | ---- |
 |   笑妄   |   [「从源码中学习」彻底理解Vue选项Props \- 掘金](https://juejin.im/post/5c88e669f265da2d8f47792a)   |
 |   SHERlocked93   |   [GraphQL 从入门到实践 \- 掘金](https://juejin.im/post/5c87b1776fb9a049ac7a0247)   |
 |   atie   |   [javascript排序算法学习笔记](https://segmentfault.com/a/1190000018467862)   |
-|   尹光耀   |   [如何写好前端业务代码？](https://github.com/yinguangyao/blog/issues/23)   |
+|   尹光耀   |   [寒冬中的前端社招面试 \- 掘金](https://juejin.im/post/5c8f30606fb9a070ef60996d)   |
 
 
 ## 第三十八期 20190303
