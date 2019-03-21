@@ -10,7 +10,7 @@
 |   笑妄   |   [「从源码中学习」彻底理解Vue选项Props \- 掘金](https://juejin.im/post/5c88e669f265da2d8f47792a)   |
 |   SHERlocked93   |   [GraphQL 从入门到实践 \- 掘金](https://juejin.im/post/5c87b1776fb9a049ac7a0247)   |
 |   atie   |   [javascript排序算法学习笔记](https://segmentfault.com/a/1190000018467862)   |
-|   尹光耀   |   🐶   |
+|   尹光耀   |   [如何写好前端业务代码？](https://github.com/yinguangyao/blog/issues/23)   |
 
 
 ## 第三十八期 20190303
@@ -19,7 +19,7 @@
 |   笑妄   |   🐶   |
 |   SHERlocked93   |   [\[译\] 网速敏感的视频延迟加载方案 \- 掘金](https://juejin.im/post/5c7b84356fb9a049ab0e5630)   |
 |   atie   |   [javascript数据结构学习笔记](https://segmentfault.com/a/1190000018374312) |
-|   尹光耀   |   🐶   |
+|   尹光耀   |   [再见，携程](https://github.com/yinguangyao/blog/issues/24)   |
 
 
 ## 第三十七期 20190224
