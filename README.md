@@ -5,6 +5,9 @@
 前端交流群：468273103，欢迎一起来探讨技术
 
 
+参与者：[SHERlocked93](https://github.com/SHERlocked93/blog)、[笑妄](https://juejin.im/user/57bd1bdfd342d3006bf76a52/posts)、[尹光耀](https://juejin.im/user/57fd8810816dfa0056d0b504/posts)、[atie](https://segmentfault.com/blog/zhouatie)
+
+
 ## 第四十一期 20190324
 |   -   |   article   |
 | ---- | ---- |
