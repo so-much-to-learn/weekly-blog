@@ -11,7 +11,7 @@
 |   -   |   article   |
 | ---- | ---- |
 |   笑妄   |   [「从源码中学习」面试官都不知道的Vue题目答案 - 掘金 ](https://juejin.im/post/5c959f74f265da610c068fa8)   |
-|   SHERlocked93   |   [监测与调试 Vue.js 的响应式系统：计算属性树（Computed Tree）](https://github.com/xitu/gold-miner/pull/5444)   |
+|   SHERlocked93   |   [\[译\] 监测与调试 Vue\.js 的响应式系统：计算属性树（Computed Tree） \- 掘金](https://juejin.im/post/5c9ca62e5188251d80672b0d)   |
 |   atie   |   🐶   |
 |   尹光耀   |   🐶   |
 
