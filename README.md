@@ -6,12 +6,19 @@
 
 **参与者：** [SHERlocked93](https://github.com/SHERlocked93/blog)、[笑妄](https://juejin.im/user/57bd1bdfd342d3006bf76a52/posts)、[尹光耀](https://juejin.im/user/57fd8810816dfa0056d0b504/posts)、[atie](https://segmentfault.com/blog/zhouatie)
 
+## 第四十四期 20190414
+|   -   |   article   |
+| ---- | ---- |
+|   笑妄   |   🐶   |
+|   SHERlocked93   |   [《HTTP/2 基础教程》 阅读摘要 \- 掘金](https://juejin.im/post/5cb54286e51d456e235d9be6) |
+|   atie   |   🐶   |
+|   尹光耀   |   🐶   |
 
 ## 第四十三期 20190407
 |   -   |   article   |
 | ---- | ---- |
 |   笑妄   |   [「Vue实践」武装你的前端项目 - 掘金 ](https://juejin.im/post/5cab64ce5188251b19486041)   |
-|   SHERlocked93   |   🐶|
+|   SHERlocked93   |   🐶 |
 |   atie   |   🐶   |
 |   尹光耀   |   🐶   |
 
@@ -20,7 +27,7 @@
 |   -   |   article   |
 | ---- | ---- |
 |   笑妄   |   [「中高级前端面试」JavaScript手写代码无敌秘籍 - 掘金 ](https://juejin.im/post/5c9c3989e51d454e3a3902b6)   |
-|   SHERlocked93   |   🐶|
+|   SHERlocked93   |   🐶 |
 |   atie   |   🐶   |
 |   尹光耀   |   🐶   |
 
