@@ -10,7 +10,7 @@
 |   -   |   article   |
 | ---- | ---- |
 |   笑妄   |   🐶   |
-|   SHERlocked93   |   掘金专栏：发布-订阅模式（上线后补链接） |
+|   SHERlocked93   |   专栏：发布-订阅模式（上线后补链接） |
 |   atie   |   🐶   |
 |   尹光耀  | [浅谈一种新的状态管理实现](https://github.com/yinguangyao/blog/issues/26)
 
