@@ -9,7 +9,7 @@
 ## 第四十五期 20190421
 |   -   |   article   |
 | ---- | ---- |
-|   笑妄   |   🐶   |
+|   笑妄   |  [「真香警告」重学TCP/IP 协议 与三次握手](https://juejin.im/post/5ca95ed46fb9a05e3d0a8533)|
 |   SHERlocked93   |   专栏：单例模式、策略模式（上线后补链接） |
 |   atie   |   🐶   |
 |   尹光耀  | 🐶  |
@@ -17,7 +17,8 @@
 ## 第四十四期 20190414
 |   -   |   article   |
 | ---- | ---- |
-|   笑妄   |   🐶   |
+|   笑妄   |   [「Vue进阶」5分钟撸一个Vue CLI 插件](https://juejin.im/post/5cb59c4bf265da03a743e979)   |
+|   ---   |   [「简明性能优化」双端开启Gzip指南](https://juejin.im/post/5cb7ee0e51882532fe3440ea)   |
 |   SHERlocked93   |   专栏：发布-订阅模式（上线后补链接） |
 |   atie   |   🐶   |
 |   尹光耀  | [浅谈一种新的状态管理实现](https://github.com/yinguangyao/blog/issues/26) |
