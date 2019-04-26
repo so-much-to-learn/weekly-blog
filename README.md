@@ -5,6 +5,10 @@
 **前端交流群：** 468273103，欢迎一起来探讨技术
 
 **参与者：** [SHERlocked93](https://github.com/SHERlocked93/blog)、[笑妄](https://juejin.im/user/57bd1bdfd342d3006bf76a52/posts)、[尹光耀](https://juejin.im/user/57fd8810816dfa0056d0b504/posts)、[atie](https://segmentfault.com/blog/zhouatie)、[Ashleysweetie](https://segmentfault.com/u/ashleysweetie)
+## 第四十六期 20190428
+|   -   |   article   |
+| ----  |   ---- |
+|尹光耀  | [浅谈react diff实现](https://github.com/yinguangyao/blog/issues/27) |
 
 ## 第四十五期 20190421
 |   -   |   article   |
@@ -13,7 +17,7 @@
 |   SHERlocked93   |   专栏：单例模式（上线后补链接） |
 |   -   |   专栏：策略模式（上线后补链接） |
 |   atie   |   🐶   |
-|   尹光耀  | 🐶  |
+|   尹光耀  | 专栏：javascript的前世今生（上线后补链接）  |
 
 ## 第四十四期 20190414
 |   -   |   article   |
