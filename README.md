@@ -8,6 +8,10 @@
 ## 第四十六期 20190428
 |   -   |   article   |
 | ----  |   ---- |
+|   笑妄   |  🐶 |
+|   SHERlocked93   |   专栏：工厂模式（上线后补链接） |
+|   -   |   专栏：抽象工厂模式（上线后补链接） |
+|   atie   |   🐶   |
 |尹光耀  | [浅谈react diff实现](https://github.com/yinguangyao/blog/issues/27) |
 
 ## 第四十五期 20190421
