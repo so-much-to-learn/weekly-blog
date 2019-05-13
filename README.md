@@ -6,6 +6,15 @@
 
 **参与者：** [SHERlocked93](https://github.com/SHERlocked93/blog)、[笑妄](https://juejin.im/user/57bd1bdfd342d3006bf76a52/posts)、[尹光耀](https://juejin.im/user/57fd8810816dfa0056d0b504/posts)、[atie](https://segmentfault.com/blog/zhouatie)
 
+## 第四十八期 20190512
+|   -   |   article   |
+| ----  |   ---- |
+|   笑妄    |   🐶  |
+|   SHERlocked93   |   专栏：创建型模式：建造者模式（上线后补链接） |
+|   -   |   专栏：this、new、bind、call、apply（上线后补链接） |
+|   atie   |   🐶   |
+|   尹光耀  |   🐶   |
+
 
 ## 第四十七期 20190505
 |   -   |   article   |
