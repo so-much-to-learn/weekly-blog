@@ -6,6 +6,17 @@
 
 **参与者：** [SHERlocked93](https://github.com/SHERlocked93/blog)、[笑妄](https://juejin.im/user/57bd1bdfd342d3006bf76a52/posts)、[尹光耀](https://juejin.im/user/57fd8810816dfa0056d0b504/posts)、[atie](https://segmentfault.com/blog/zhouatie)
 
+
+## 第四十九期 20190519
+|   -   |   article   |
+| ----  |   ---- |
+|   笑妄    |   🐶  |
+|   SHERlocked93   |   专栏：闭包与高阶函数（上线后补链接） |
+|   -   |   专栏：代理模式（上线后补链接） |
+|   atie   |   🐶   |
+|   尹光耀  |   🐶   |
+
+
 ## 第四十八期 20190512
 |   -   |   article   |
 | ----  |   ---- |
