@@ -28,7 +28,7 @@
 |   SHERlocked93   |   专栏：[中介者模式：找媒人介绍对象](https://www.imooc.com/read/38/article/500) |
 |   -   |   专栏：[链模式](https://www.imooc.com/read/38/article/503) |
 |   atie   |   🐶   |
-|   尹光耀  |   🐶   |
+|   尹光耀  |   专栏：[回调函数与Promise](上线后补充)   |
 
 ## 第六十期 20190804
 |   -   |   article   |
@@ -45,7 +45,7 @@
 |   笑妄    |   🐶  |
 |   SHERlocked93   |   专栏：[命令模式：江湖通缉令](https://www.imooc.com/read/38/article/498) |
 |   atie   |   🐶   |
-|   尹光耀  |   🐶   |
+|   尹光耀  |    专栏：[前端mvc的实践]（上线后补充） |
 
 
 
@@ -55,7 +55,7 @@
 |   笑妄    |   🐶  |
 |   SHERlocked93   |   专栏：[迭代器模式：银行的点钞机](https://www.imooc.com/read/38/article/497) |
 |   atie   |   🐶   |
-|   尹光耀  |   🐶   |
+|   尹光耀  |     |
 
 
 
@@ -65,7 +65,7 @@
 |   笑妄    |   🐶  |
 |   SHERlocked93   |   专栏：[状态模式：交通灯](https://www.imooc.com/read/38/article/495) |
 |   atie   |   🐶   |
-|   尹光耀  |   🐶   |
+|   尹光耀  |   专栏：[js面向对象编程]（上线后补充）   |
 
 
 
@@ -75,7 +75,7 @@
 |   笑妄    |   🐶  |
 |   SHERlocked93   |   专栏：[桥接模式：组装变频洗衣机](https://www.imooc.com/read/38/article/492) |
 |   atie   |   🐶   |
-|   尹光耀  |   🐶   |
+|   尹光耀  |   专栏：[类型转换知多少]（上线后补充）   |
 
 
 ## 第五十五期 20190630
@@ -84,7 +84,7 @@
 |   笑妄    |   🐶  |
 |   SHERlocked93   |   专栏：[组合模式：文档结构树](https://www.imooc.com/read/38/article/491) |
 |   atie   |   🐶   |
-|   尹光耀  |   🐶   |
+|   尹光耀  |   专栏：[优化你的条件语句]（上线后补充   |
 
 
 ## 第五十四期 20190623
@@ -93,7 +93,7 @@
 |   笑妄    |   🐶  |
 |   SHERlocked93   |   专栏：[装饰者模式：给新房子装修](https://www.imooc.com/read/38/article/489) |
 |   atie   |   🐶   |
-|   尹光耀  |   🐶   |
+|   尹光耀  |   专栏：[如何起一个好的变量名]（上线后补充   |
 
 
 ## 第五十三期 20190616
