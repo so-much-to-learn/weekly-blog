@@ -3,7 +3,7 @@
 **规则描述：** 每周一篇博客，不写就是🐶，是兄弟就来战！ 🤪
 
 
-**参与者：** [SHERlocked93](https://github.com/SHERlocked93/blog)、[笑妄](https://juejin.im/user/57bd1bdfd342d3006bf76a52/posts)、[鱼头🐟](https://github.com/KRISACHAN)
+**参与者：** [SHERlocked93](https://github.com/SHERlocked93/blog)、[笑妄](https://juejin.im/user/57bd1bdfd342d3006bf76a52/posts)、[鱼头🐟](https://github.com/KRISACHAN)、[桃翁](https://github.com/crazylxr))
 
 **临时退出：** [尹光耀(修了福报)](https://juejin.im/user/57fd8810816dfa0056d0b504/posts)、[atie(有了女票)](https://segmentfault.com/blog/zhouatie)
 
