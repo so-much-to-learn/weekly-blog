@@ -145,7 +145,7 @@
 |   笑妄    |   🐶  |
 |   SHERlocked93   |   专栏：[继承与原型链](https://www.imooc.com/read/38/article/480) |
 |   atie   |   🐶   |
-|   尹光耀  |   专栏：[javascript的前世今生](上线后补充   |
+|   尹光耀  |     |
 
 
 ### 第四十九期 20190519
