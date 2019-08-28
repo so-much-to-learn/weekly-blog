@@ -26,7 +26,7 @@
 |   笑妄    |   🐶  |
 |   SHERlocked93   |   专栏：中间件模式（上线后补链接） |
 |   桃翁   |   🐶   |
-|   鱼头🐟   |   [正在966又日渐肥胖的你，身体还好吗？](https://juejin.im/post/5d60f9be6fb9a06adb7fec4b)   |
+|   鱼头🐟   |   [996下的程序员，如何保证身体健康？](https://juejin.im/post/5d60f9be6fb9a06adb7fec4b)   |
 |   尹光耀  |   🐶   |
 
 
