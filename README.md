@@ -22,7 +22,7 @@
 |   鱼头🐟   |   《我的 `<input />` 不可能这么有趣》（上线后补链接）   |
 |   尹光耀  |   🐶   |
 |   五月君  |   [数据结构知否知否系列之 — 栈篇](https://mp.weixin.qq.com/s/IP8KLndcyIYSYxiTMGHaUg)   |
-|   koala  |   [以订阅/发布的设计思想带你搞懂EventEmitter](上线后补上)   |
+|   koala  |   《以订阅/发布的设计思想带你搞懂EventEmitter》(上线后补连接)   |
 
 ### 第六十三期 20190825
 |   -   |   article   |
