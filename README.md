@@ -8,9 +8,10 @@
 
 ## 第三季
 
-**参与者：** [SHERlocked93](https://github.com/SHERlocked93/blog)、[笑妄](https://juejin.im/user/57bd1bdfd342d3006bf76a52/posts)、[鱼头🐟](https://github.com/KRISACHAN)、[桃翁](https://github.com/crazylxr)、[koala\-coding](https://github.com/koala-coding)、[五月君](https://github.com/Q-Angelo)
+**参与者：** [SHERlocked93](https://github.com/SHERlocked93/blog)、[笑妄](https://juejin.im/user/57bd1bdfd342d3006bf76a52/posts)、[鱼头🐟](https://github.com/KRISACHAN)、[桃翁](https://github.com/crazylxr)、[koala\-coding](https://github.com/koala-coding)、[五月君](https://github.com/Q-Angelo)、
+[atie](https://segmentfault.com/blog/zhouatie)
 
-**临时退出：** [尹光耀(修了福报)](https://juejin.im/user/57fd8810816dfa0056d0b504/posts)、[atie](https://segmentfault.com/blog/zhouatie)
+**临时退出：** [尹光耀(修了福报)](https://juejin.im/user/57fd8810816dfa0056d0b504/posts)
 
 
 ### 第六十四期 20190901
@@ -23,6 +24,9 @@
 |   尹光耀  |   🐶   |
 |   五月君  |   [数据结构知否知否系列之 — 栈篇](https://mp.weixin.qq.com/s/IP8KLndcyIYSYxiTMGHaUg)   |
 |   koala  |   《以订阅/发布的设计思想带你搞懂EventEmitter》(上线后补连接)   |
+|   atie  |   [前端必须知道的nginx知识](https://segmentfault.com/a/1190000020250065)   |
+
+
 
 ### 第六十三期 20190825
 |   -   |   article   |
