@@ -20,7 +20,7 @@
 |   笑妄    |   🐶  |
 |   SHERlocked93   |   手摸手 Webpack 多入口配置（上线后补链接）  |
 |   桃翁   |   🐶   |
-|   鱼头🐟   |   《我的 `<input />` 不可能这么有趣》（上线后补链接）   |
+|   鱼头🐟   |   [我的 `<input />` 不可能这么可爱]（https://juejin.im/post/5d6d4e196fb9a06aed713cef）   |
 |   尹光耀  |   🐶   |
 |   五月君  |   [数据结构知否知否系列之 — 栈篇](https://mp.weixin.qq.com/s/IP8KLndcyIYSYxiTMGHaUg)   |
 |   koala  |   《以订阅/发布的设计思想带你搞懂EventEmitter》(上线后补连接)   |
