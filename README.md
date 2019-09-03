@@ -32,7 +32,7 @@
 | ----  |   ---- |
 |   笑妄    |   🐶  |
 |   SHERlocked93   |   手摸手 Webpack 多入口配置（上线后补链接）  |
-|   桃翁   |   🐶   |
+|   桃翁   |   [新手学习 react 迷惑的点(一)](https://juejin.im/post/5d6be5c95188255aee7aa4e0)   |
 |   鱼头🐟   |   [我的 `<input />` 不可能这么可爱](https://juejin.im/post/5d6d4e196fb9a06aed713cef)   |
 |   尹光耀  |   🐶   |
 |   五月君  |   [数据结构知否知否系列之 — 栈篇](https://mp.weixin.qq.com/s/IP8KLndcyIYSYxiTMGHaUg)   |
