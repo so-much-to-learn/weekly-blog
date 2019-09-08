@@ -19,7 +19,7 @@
 | ----  |   ---- |
 |   笑妄    |   🐶  |
 |   SHERlocked93   |   🐶  |
-|   桃翁   |   🐶   |
+|   桃翁   |   [新手学习 react 迷惑的点(二)](http://www.taoweng.site/index.php/archives/322/)   |
 |   鱼头🐟   |   精通BFC的你可知道IFC是啥？（上线后补链接）   |
 |   尹光耀  |   🐶   |
 |   五月君  |   🐶   |
