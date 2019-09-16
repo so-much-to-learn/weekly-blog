@@ -23,7 +23,7 @@
 |   鱼头🐟   |   精通BFC的你可知道IFC是啥？（上线后补链接）   |
 |   尹光耀  |   🐶   |
 |   五月君  |   [数据结构知否知否系列之 — 线性表的顺序与链式存储篇（8000 多字长文）](https://mp.weixin.qq.com/s/wj8PJT1ZJNvYgpd_Kn8uoA)   |
-|   koala  |   [重学this关键字？]（https://juejin.im/post/5d6e5f77f265da03e05b2fd9）   |
+|   koala  |   [重学this关键字？](https://juejin.im/post/5d6e5f77f265da03e05b2fd9)   |
 |   atie  |   🐶   |
 
 
