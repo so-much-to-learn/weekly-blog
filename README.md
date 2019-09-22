@@ -23,7 +23,7 @@
 |   鱼头🐟   |   🐶   |
 |   尹光耀  |   [mock server实践](https://github.com/yinguangyao/blog/issues/28)   |
 |   五月君  |   🐶|
-|   koala  |   🐶  |
+|   koala  |    [react入门](上线后补链接  |
 |   atie  |   🐶   |
 
 
@@ -35,7 +35,7 @@
 |   SHERlocked93   |   🐶  |
 |   桃翁   |   🐶  |
 |   鱼头🐟   |   🐶   |
-|   尹光耀  |   [react入门](上线后补链接   |
+|   尹光耀  |   [聊聊面试常考-递归思想与实战](上线后补链接)   |
 |   五月君  |   🐶|
 |   koala  |   🐶  |
 |   atie  |   🐶   |
