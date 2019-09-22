@@ -49,7 +49,7 @@
 |   笑妄    |   🐶  |
 |   SHERlocked93   |   🐶  |
 |   桃翁   |   [新手学习 react 迷惑的点(二)](http://www.taoweng.site/index.php/archives/322/)   |
-|   鱼头🐟   |   精通BFC的你可知道IFC是啥？（上线后补链接）   |
+|   鱼头🐟   |   🐶   |
 |   尹光耀  |   🐶   |
 |   五月君  |   [数据结构知否知否系列之 — 线性表的顺序与链式存储篇（8000 多字长文）](https://mp.weixin.qq.com/s/wj8PJT1ZJNvYgpd_Kn8uoA)   |
 |   koala  |   [重学this关键字？](https://juejin.im/post/5d6e5f77f265da03e05b2fd9)   |
