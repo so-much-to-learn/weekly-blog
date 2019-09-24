@@ -20,7 +20,7 @@
 |   笑妄    |    |
 |   SHERlocked93   |   🐶  |
 |   桃翁   |   🐶  |
-|   鱼头🐟   |   🐶   |
+|   鱼头🐟   |   [像监听页面一样监听戈多的动态](https://mp.weixin.qq.com/s/YZx5hJ0tzEfvYOUJHsAIzQ)   |
 |   尹光耀  |   [mock server实践](https://github.com/yinguangyao/blog/issues/28)   |
 |   五月君  |   [Node.js 服务 Docker 容器化应用实践](上线后补链接  |
 |   koala  |    🐶  |
