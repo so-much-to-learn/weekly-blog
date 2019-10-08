@@ -13,6 +13,32 @@
 
 **临时退出：** [尹光耀(修了福报)](https://juejin.im/user/57fd8810816dfa0056d0b504/posts)
 
+### 第六十七期 20191006
+
+|   -   |   article   |
+| ----  |   ---- |
+|   笑妄    |  🐶  |
+|   SHERlocked93   |   🐶  |
+|   桃翁   |   🐶  |
+|   鱼头🐟   |   🐶   |
+|   尹光耀  |   🐶   |
+|   五月君  |   🐶  |
+|   koala  |    🐶  |
+|   atie  |   🐶   |
+
+### 第六十七期 20190929
+
+|   -   |   article   |
+| ----  |   ---- |
+|   笑妄    |  🐶  |
+|   SHERlocked93   |   🐶  |
+|   桃翁   |   🐶  |
+|   鱼头🐟   |   [我和我亲爱的祖国（用CSS来为祖国母亲庆生）](https://mp.weixin.qq.com/s/6x6FoowyHfjwR-9FmVMfXg)   |
+|   尹光耀  |   🐶   |
+|   五月君  |   🐶  |
+|   koala  |    🐶  |
+|   atie  |   🐶   |
+
 ### 第六十六期 20190922
 
 |   -   |   article   |
