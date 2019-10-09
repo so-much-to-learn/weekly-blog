@@ -21,7 +21,7 @@
 |   SHERlocked93   |   🐶  |
 |   桃翁   |   🐶  |
 |   鱼头🐟   |   🐶   |
-|   尹光耀  |   🐶   |
+|   尹光耀  |   [从 babel 看 ES6 class 与 extends](上线后补链接   |
 |   五月君  |   🐶  |
 |   koala  |    🐶  |
 |   atie  |   🐶   |
@@ -34,7 +34,7 @@
 |   SHERlocked93   |   🐶  |
 |   桃翁   |   🐶  |
 |   鱼头🐟   |   [我和我亲爱的祖国（用CSS来为祖国母亲庆生）](https://mp.weixin.qq.com/s/6x6FoowyHfjwR-9FmVMfXg)   |
-|   尹光耀  |   🐶   |
+|   尹光耀  |   [深入理解 类和继承](上线后补链接   |
 |   五月君  |   🐶  |
 |   koala  |    🐶  |
 |   atie  |   🐶   |
