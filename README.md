@@ -23,7 +23,7 @@
 |   鱼头🐟   |   🐶   |
 |   尹光耀  |   [从 babel 看 ES6 class 与 extends](上线后补链接   |
 |   五月君  |   🐶  |
-|   koala  |    🐶  |
+|   koala  |    [DOM与虚拟DOM一探究竟](上线后补链接  |
 |   atie  |   🐶   |
 
 ### 第六十七期 20190929
@@ -63,7 +63,7 @@
 |   鱼头🐟   |   🐶   |
 |   尹光耀  |     |
 |   五月君  | [一文零基础教你学会 Docker 入门到实践](https://mp.weixin.qq.com/s/S7ksqF8z4SYJvcG1DOupNA)   |
-|   koala  |   [聊聊面试常考-递归思想与实战](上线后补链接  |
+|   koala  |   [聊聊面试常考-递归思想与实战](https://mp.weixin.qq.com/s/4S5P2F2wzOK5Ju69qfST8Q)  |
 |   atie  |   🐶   |
 
 
