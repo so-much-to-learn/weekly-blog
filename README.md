@@ -17,7 +17,7 @@
 
 |   -   |   article   |
 | ----  |   ---- |
-|   笑妄    |  🐶  |
+|   笑妄    |  [Chrome Devtools 高级调试指南（新）](https://github.com/roger-hiro/BlogFN/issues/6)  |
 |   SHERlocked93   |   🐶  |
 |   桃翁   |   🐶  |
 |   鱼头🐟   |   🐶   |
