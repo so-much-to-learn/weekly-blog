@@ -22,7 +22,7 @@
 |   桃翁   |   🐶  |
 |   鱼头🐟   |   🐶   |
 |   尹光耀  |   [从 babel 看 ES6 class 与 extends](上线后补链接   |
-|   五月君  |   🐶  |
+|   五月君  |   [RabbitMQ 高级消息队列入门篇](上线补链接  |
 |   koala  |    [DOM与虚拟DOM一探究竟](上线后补链接  |
 |   atie  |   🐶   |
 
@@ -35,7 +35,7 @@
 |   桃翁   |   🐶  |
 |   鱼头🐟   |   [我和我亲爱的祖国（用CSS来为祖国母亲庆生）](https://mp.weixin.qq.com/s/6x6FoowyHfjwR-9FmVMfXg)   |
 |   尹光耀  |   [深入理解 类和继承](上线后补链接   |
-|   五月君  |   🐶  |
+|   五月君  |   [Docker 容器环境下 Node.js 应用程序的优雅退出](https://mp.weixin.qq.com/s/q2fNTRIFNDOY9xxp7r5ROg)  |
 |   koala  |    🐶  |
 |   atie  |   🐶   |
 
