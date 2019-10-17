@@ -20,7 +20,7 @@
 |   笑妄    |  [JavaScript 工具函数大全（新）](https://juejin.im/post/5da1a04ae51d45783d6122bf)  |
 |   SHERlocked93   |   🐶  |
 |   桃翁   |   🐶  |
-|   鱼头🐟   |   🐶   |
+|   鱼头🐟   |   [深藏在CSS里的诗情画意](https://mp.weixin.qq.com/s/OrraMBmfGEJS-S8C-gIQhA)   |
 |   尹光耀  |   🐶   |
 |   五月君  |   🐶  |
 |   koala  |    🐶  |
