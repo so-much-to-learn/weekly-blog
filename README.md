@@ -13,6 +13,21 @@
 
 **临时退出：** [尹光耀(修了福报)](https://juejin.im/user/57fd8810816dfa0056d0b504/posts)
 
+
+### 第六十九期 20191020
+
+|   -   |   article   |
+| ----  |   ---- |
+|   笑妄    |  🐶  |
+|   SHERlocked93   |   🐶  |
+|   桃翁   |   🐶  |
+|   鱼头🐟   |  🐶  |
+|   尹光耀  |   🐶   |
+|   五月君  |   [利用 RabbitMQ 死信队列和 TTL 实现定时任务](https://mp.weixin.qq.com/s/MO9Cg7mrpMfjMyX1UXau0Q)  |
+|   koala  |    🐶  |
+|   atie  |   🐶   |
+
+
 ### 第六十九期 20191013
 
 |   -   |   article   |
@@ -22,11 +37,9 @@
 |   桃翁   |   🐶  |
 |   鱼头🐟   |   [深藏在CSS里的诗情画意](https://mp.weixin.qq.com/s/OrraMBmfGEJS-S8C-gIQhA)   |
 |   尹光耀  |   🐶   |
-|   五月君  |   🐶  |
+|   五月君  |   [图文实践 RabbitMQ 不同类型交换机消息投递机制](https://mp.weixin.qq.com/s/sz5N-QycoiddsGQJdDy4TA)  |
 |   koala  |    🐶  |
 |   atie  |   🐶   |
-
-
 
 ### 第六十八期 20191006
 
@@ -37,7 +50,7 @@
 |   桃翁   |   🐶  |
 |   鱼头🐟   |   🐶   |
 |   尹光耀  |   [从 babel 看 ES6 class 与 extends](上线后补链接   |
-|   五月君  |   [RabbitMQ 高级消息队列入门篇](上线补链接  |
+|   五月君  |   [RabbitMQ 高级消息队列入门篇](https://mp.weixin.qq.com/s/WYwwnogLsZNgw_bPp2sCzg)  |
 |   koala  |    [DOM与虚拟DOM一探究竟](上线后补链接  |
 |   atie  |   🐶   |
 
