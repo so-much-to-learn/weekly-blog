@@ -47,7 +47,7 @@
 |   SHERlocked93   |   🐶  |
 |   桃翁   |   🐶  |
 |   鱼头🐟   |  🐶  |
-|   尹光耀  |   🐶   |
+|   尹光耀  |   [前端 CI/CD 初探（内部分享 PPT）](http://share.gyyin.top/Shopee/CI.html)
 |   五月君  |   [利用 RabbitMQ 死信队列和 TTL 实现定时任务](https://mp.weixin.qq.com/s/MO9Cg7mrpMfjMyX1UXau0Q)  |
 |   koala  |    🐶  |
 |   atie  |   🐶   |
