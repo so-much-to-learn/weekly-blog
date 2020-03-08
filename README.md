@@ -19,7 +19,7 @@
 |   笑妄    |  🐶  |
 |   SHERlocked93   |   [半小时搞会 CentOS 入门必备基础知识](https://juejin.im/post/5e5f13936fb9a07cdf534c62)  |
 |   桃翁   |   🐶  |
-|   鱼头🐟   |  🐶  |
+|   鱼头🐟   |  [忍法，scroll 翻滚之术！](https://mp.weixin.qq.com/s/rIDxlYtjFznabut_Ew2F2w)  |
 |   尹光耀  |   🐶  |
 |   五月君  |   🐶 |
 |   koala  |    🐶  |
@@ -32,7 +32,7 @@
 |   笑妄    |  🐶  |
 |   SHERlocked93   |   [SHERlocked93 的 2019 年终总结](https://juejin.im/post/5e55ca3e6fb9a07c820fab8a)  |
 |   桃翁   |   🐶  |
-|   鱼头🐟   |  🐶  |
+|   鱼头🐟   |  [Web开发中最该知道却从不重视的 —— Accessibility](https://mp.weixin.qq.com/s/x7P-KzjTMuQROGLtYaLYjg)  |
 |   尹光耀  |   [对跨域页面通信的一些思索](https://github.com/yinguangyao/blog/issues/33)  |
 |   五月君  |   🐶 |
 |   koala  |    🐶  |
@@ -45,7 +45,7 @@
 |   笑妄    |  🐶  |
 |   SHERlocked93   |   [干货满满！推介几款 Mac 下非常好用的软件（第二弹）](https://juejin.im/post/5e037fe2518825123f0c70cb)  |
 |   桃翁   |   🐶  |
-|   鱼头🐟   |  🐶  |
+|   鱼头🐟   |  [来自新时代的CSS](https://mp.weixin.qq.com/s/Zqw8f5jX6MmeURRzc44C6Q)  |
 |   尹光耀  |   🐶   |
 |   五月君  |   🐶 |
 |   koala  |    🐶  |
