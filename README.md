@@ -60,7 +60,7 @@
 |   SHERlocked93   |   [干货满满！推介几款 Mac 下非常好用的软件（第一弹）](https://juejin.im/post/5de664e5f265da33b82bcfce)  |
 |   桃翁   |   🐶  |
 |   鱼头🐟   |  🐶  |
-|   尹光耀  |   [前端 CI/CD 初探（内部分享 PPT）](http://share.gyyin.top/Shopee/CI.html)
+|   尹光耀  |   )
 |   五月君  |   [利用 RabbitMQ 死信队列和 TTL 实现定时任务](https://mp.weixin.qq.com/s/MO9Cg7mrpMfjMyX1UXau0Q)  |
 |   koala  |    🐶  |
 |   atie  |   🐶   |
@@ -87,7 +87,7 @@
 |   SHERlocked93   |   🐶  |
 |   桃翁   |   🐶  |
 |   鱼头🐟   |   🐶   |
-|   尹光耀  |   [从 babel 看 ES6 class 与 extends](上线后补链接   |
+|   尹光耀  |      |
 |   五月君  |   [RabbitMQ 高级消息队列入门篇](https://mp.weixin.qq.com/s/WYwwnogLsZNgw_bPp2sCzg)  |
 |   koala  |    [DOM与虚拟DOM一探究竟](上线后补链接  |
 |   atie  |   🐶   |
@@ -100,7 +100,7 @@
 |   SHERlocked93   |   🐶  |
 |   桃翁   |   🐶  |
 |   鱼头🐟   |   [我和我亲爱的祖国（用CSS来为祖国母亲庆生）](https://mp.weixin.qq.com/s/6x6FoowyHfjwR-9FmVMfXg)   |
-|   尹光耀  |   [深入理解 类和继承](上线后补链接   |
+|   尹光耀  |      |
 |   五月君  |   [Docker 容器环境下 Node.js 应用程序的优雅退出](https://mp.weixin.qq.com/s/q2fNTRIFNDOY9xxp7r5ROg)  |
 |   koala  |    🐶  |
 |   atie  |   🐶   |
@@ -113,7 +113,7 @@
 |   SHERlocked93   |   🐶  |
 |   桃翁   |   🐶  |
 |   鱼头🐟   |   [像监听页面一样监听戈多的动态](https://mp.weixin.qq.com/s/YZx5hJ0tzEfvYOUJHsAIzQ)   |
-|   尹光耀  |   [mock server实践](https://github.com/yinguangyao/blog/issues/28)   |
+|   尹光耀  |      |
 |   五月君  |   [Node.js 服务 Docker 容器化应用实践](https://mp.weixin.qq.com/s/vTD63u6F1hQYZcMkoSaj6g)  |
 |   koala  |    🐶  |
 |   atie  |   🐶   |
